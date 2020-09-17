@@ -29,17 +29,12 @@ if __name__ == '__main__':
 
             'Development Status :: 5 - Production/Stable',
 
-            'Intended Audience :: Social network chat rooms',
-            'Intended Audience :: Entertainment',
 
             'License :: OSI Approved :: BSD License',
 
             'Natural Language :: English',
 
-            'Programming Language :: Python :: 3',
-
-            'Topic :: Pakistani Chat Rooms :: Chat Rooms',
-            'Topic :: Social Networks'
+            'Programming Language :: Python :: 3'
         ],
 
         keywords='chat room, online chat, chat rooms',
